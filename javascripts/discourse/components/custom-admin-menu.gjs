@@ -43,6 +43,14 @@ export default class CustomAdminMenu extends Component {
               </LinkTo>
             </li>
             <li>
+              <a href="/c/">
+                <span>
+                  {{icon "list"}}
+                  "Categories"
+                </span>
+              </a>
+            </li>
+            <li>
               <a href="/admin/plugins/explorer?id=4&params=null">
                 <span>
                   {{icon "thumbs-up"}}
@@ -62,7 +70,7 @@ export default class CustomAdminMenu extends Component {
               </LinkTo>
             </li>
             <li>
-              <a href="/u/discoursehelper/messages">
+              <a href="/u/vaxbot/messages">
                 <span>
                   {{icon "envelope"}}
                   {{i18n (themePrefix "admin_menu.all_messages")}}
