@@ -2,9 +2,9 @@ quick_links:
   type: objects
   default:
     [
-      { "question": "How do I make a custom badge?" },
-      { "question": "How do I install themes?" },
-      { "question": "What are trust levels?" },
+      { "question": "What exactly is vaccine risk?" },
+      { "question": "How do I find a vaccine-friendly doctor?" },
+      { "question": "Can vaccines induce food allergies?" },
     ]
   schema:
     name: "link"
