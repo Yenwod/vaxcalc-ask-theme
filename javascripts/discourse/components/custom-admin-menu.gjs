@@ -46,7 +46,7 @@ export default class CustomAdminMenu extends Component {
               <a href="/categories/">
                 <span>
                   {{icon "list"}}
-                  "Categories"
+                  Categories
                 </span>
               </a>
             </li>
