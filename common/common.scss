@@ -575,6 +575,12 @@ html.composer-open .custom-homepage #main-outlet {
   display: none;
 }
 
+// hide copy link button
 .post-action-menu__copy-link {
+  display: none !important;
+}
+
+// hide bookmark button
+.bookmark-menu-trigger {
   display: none !important;
 }
