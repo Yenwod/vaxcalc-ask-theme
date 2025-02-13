@@ -6,7 +6,7 @@ en:
   messages_sidebar:
     title: "Recent conversations"
   title: Ask VaxBot anything about vaccines!
-  input_placeholder: "Ask a question about vaccination, CDC, pediatricians..."
+  input_placeholder: "Ask me anything about vaccinations..."
   input_submit: "Ask away!"
   input_length: "Your question is too short, a more detailed question will get a better response..."
   disclaimer:
