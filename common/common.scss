@@ -569,3 +569,8 @@ html.composer-open .custom-homepage #main-outlet {
 .sidebar-section-wrapper.sidebar-section[data-section-name="chat-dms"] {
   display: none;
 }
+
+// hide left navbar chat channels
+.sidebar-section-wrapper.sidebar-section[data-section-name="chat-channels"] {
+  display: none;
+}
