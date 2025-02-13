@@ -1,7 +1,7 @@
 {
-  "name": "Ask VaxCalc AI",
-  "authors": "Discourse",
-  "about_url": "",
+  "name": "VaxBot",
+  "authors": "VaxCalc",
+  "about_url": "https://vaxcalc.org",
   "license_url": "",
   "learn_more": "",
   "theme_version": "0.0.1",
