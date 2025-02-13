@@ -584,3 +584,13 @@ html.composer-open .custom-homepage #main-outlet {
 .bookmark-menu-trigger {
   display: none !important;
 }
+
+// hide chat header icon
+.chat-header-icon {
+  display: none !important;
+}
+
+// hide search button
+.search-dropdown #search-button {
+  display: none !important;
+}
