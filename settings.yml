@@ -3,7 +3,7 @@ quick_links:
   default:
     [
       { "question": "What exactly is vaccine risk?" },
-      { "question": "How do I find a vaccine-friendly doctor?" },
+      { "question": "Should I be concerned about aluminum?" },
       { "question": "Can vaccines induce food allergies?" },
     ]
   schema:
